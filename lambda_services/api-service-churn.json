@@ -21,8 +21,8 @@
       ],
       "enrichMapping": [],
       "healthCheckQueries": [],
-      "returnPostEnrichData": false,
-      "auditPostEnrichData": false,
+      "returnPostEnrichData": true,
+      "auditPostEnrichData": true,
       "id": "predict",
       "type": "STD_PREDICTION"
     }
