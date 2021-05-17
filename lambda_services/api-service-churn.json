@@ -12,7 +12,13 @@
         "shapleyBackgroundSize": 100,
         "subChunkSize": 5000
       },
-      "testQueries": [],
+      "testQueries": [
+        {
+          "q": {
+            "features": {}
+          }
+        }
+      ],
       "enrichMapping": [],
       "healthCheckQueries": [],
       "returnPostEnrichData": false,
