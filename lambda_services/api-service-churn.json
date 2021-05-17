@@ -17,6 +17,34 @@
           "q": {
             "features": {}
           }
+        },
+        {
+          "name": "customers #1",
+          "q": {
+            "features": {
+              "State": "KS",
+              "Account Length": "128",
+              "Area Code": "415",
+              "Phone": "382-4657",
+              "Int\u0027l Plan": "no",
+              "VMail Plan": "yes",
+              "VMail Message": "25",
+              "Day Mins": "265.100000",
+              "Day Calls": "110",
+              "Day Charge": "45.070000",
+              "Eve Mins": "197.400000",
+              "Eve Calls": "99",
+              "Eve Charge": "16.780000",
+              "Night Mins": "244.700000",
+              "Night Calls": "91",
+              "Night Charge": "11.010000",
+              "Intl Mins": "10.000000",
+              "Intl Calls": "3",
+              "Intl Charge": "2.700000",
+              "CustServ Calls": "1",
+              "Churn?": "False."
+            }
+          }
         }
       ],
       "enrichMapping": [],
