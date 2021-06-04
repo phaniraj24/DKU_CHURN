@@ -9,8 +9,8 @@
         "method": "ICE",
         "nbExplanations": 3,
         "drawInScoredSet": false,
-        "shapleyBackgroundSize": 100,
-        "subChunkSize": 5000
+        "subChunkSize": 5000,
+        "shapleyBackgroundSize": 100
       },
       "testQueries": [],
       "enrichMapping": [],
